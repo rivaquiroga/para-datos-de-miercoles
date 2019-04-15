@@ -50,7 +50,7 @@ Aron Santagar,Lannister,1,1,1,1,0,0,0,18,299,2,41
 Arron,Guardia de la Noche,1,0,0,0,1,0,1,75,NA,NA,NA
 Arron Qorgyle,Martell,1,1,0,0,1,0,0,38,NA,NA,NA
 Arryk (Guard),Tyrell,1,0,0,0,1,1,0,6,NA,NA,NA
-Arson,Wildling,1,0,0,0,1,0,0,26,NA,NA,NA
+Arson,Pueblo Libre,1,0,0,0,1,0,0,26,NA,NA,NA
 Arthor Karstark,Stark,1,1,0,0,0,0,1,62,NA,NA,NA
 Arwyn Frey,Ninguna,0,1,0,0,1,0,0,49,NA,NA,NA
 Arwyn Oakheart,Tyrell,0,1,0,1,0,0,0,22,NA,NA,NA
@@ -91,7 +91,7 @@ Beric Dondarrion,Ninguna,1,1,1,0,1,0,0,42,300,4,27
 Bessa (Winterfell),Stark,0,0,1,0,0,0,0,37,NA,NA,NA
 Beth Cassel,Stark,0,1,1,1,0,0,0,7,NA,NA,NA
 Bhakaz zo Loraq,Ninguna,1,1,0,0,0,0,1,2,NA,NA,NA
-Big Boil,Wildling,1,0,0,0,1,0,0,41,NA,NA,NA
+Big Boil,Pueblo Libre,1,0,0,0,1,0,0,41,NA,NA,NA
 Big Walder Frey,Ninguna,1,1,1,1,0,0,1,NA,NA,NA,NA
 Biter,Ninguna,1,0,0,1,0,1,0,1,300,4,37
 Black Bernarr,Guardia de la Noche,1,0,0,0,1,0,1,18,NA,NA,NA
@@ -103,7 +103,7 @@ Bonifer Hasty,Lannister,1,1,0,1,0,1,0,65,NA,NA,NA
 Borcas,Guardia de la Noche,1,0,1,0,0,0,0,48,NA,NA,NA
 Boremund Harlaw,Greyjoy,1,1,0,0,0,1,0,11,NA,NA,NA
 Boros Blount,Baratheon,1,1,1,1,1,1,1,8,NA,NA,NA
-Borroq,Wildling,1,0,0,0,0,0,1,0,NA,NA,NA
+Borroq,Pueblo Libre,1,0,0,0,0,0,1,0,NA,NA,NA
 Bowen Marsh,Guardia de la Noche,1,0,1,0,1,0,1,21,NA,NA,NA
 Bran Stark,Stark,1,1,1,1,1,0,1,1,NA,NA,NA
 Brandon Norrey,Stark,1,1,0,0,0,0,1,49,NA,NA,NA
@@ -166,7 +166,7 @@ Dagon Codd,Greyjoy,1,1,0,0,0,0,1,20,300,5,20
 Dagmer,Greyjoy,1,0,0,1,0,0,0,11,NA,NA,NA
 Dalbridge,Guardia de la Noche,1,0,0,1,0,0,0,43,299,2,53
 Dale Seaworth,Baratheon,1,1,0,1,0,0,0,10,299,2,58
-Dalla,Wildling,0,1,0,0,1,0,0,73,300,3,76
+Dalla,Pueblo Libre,0,1,0,0,1,0,0,73,300,3,76
 Dalla (Dragonstone),Baratheon,0,0,0,1,0,0,0,0,NA,NA,NA
 Damon Dance-for-Me,Ninguna,1,0,0,0,0,0,1,12,NA,NA,NA
 Damon Vypren,Ninguna,1,1,0,0,1,0,0,49,NA,NA,NA
@@ -176,7 +176,7 @@ Dareon,Guardia de la Noche,1,0,1,0,0,1,0,19,300,4,34
 Daryn Hornwood,Stark,1,1,1,0,0,0,0,63,298,1,63
 Daven Lannister,Lannister,1,1,0,0,0,1,0,12,NA,NA,NA
 Davos Seaworth,Baratheon,1,1,0,1,1,0,1,0,NA,NA,NA
-Del,Wildling,1,0,0,0,1,0,0,41,299,3,41
+Del,Pueblo Libre,1,0,0,0,1,0,0,41,299,3,41
 Delp,Tully,1,0,0,1,1,0,0,39,299,3,20
 Denys Drumm,Greyjoy,1,1,0,0,0,1,0,19,NA,NA,NA
 Denys Mallister,Guardia de la Noche,1,1,0,0,1,0,0,48,NA,NA,NA
@@ -256,7 +256,7 @@ Fogo,Ninguna,1,1,1,0,0,0,0,46,298,1,61
 Forley Prester,Lannister,1,1,0,0,0,1,0,33,NA,NA,NA
 Fornio,Guardia de la Noche,1,0,0,0,1,0,0,33,NA,NA,NA
 Frenken,Lannister,1,0,0,1,1,0,0,15,NA,NA,NA
-Frenya,Wildling,0,0,0,0,0,0,1,37,300,5,69
+Frenya,Pueblo Libre,0,0,0,0,0,0,1,37,300,5,69
 Frynne,Martell,0,0,0,0,0,1,0,40,NA,NA,NA
 Gage,Stark,1,1,0,1,0,0,0,4,NA,NA,NA
 Galazza Galare,Ninguna,0,1,0,0,0,0,1,23,NA,NA,NA
@@ -282,7 +282,7 @@ Gevin Harlaw,Greyjoy,1,1,0,1,0,0,0,37,299,2,66
 Ghael,Ninguna,1,0,0,0,1,0,1,71,NA,NA,NA
 Ghost of High Heart,Ninguna,0,0,0,0,1,0,0,22,NA,NA,NA
 Gillam,Ninguna,1,0,0,0,0,1,0,31,NA,NA,NA
-Gilly,Wildling,0,0,0,1,1,1,1,23,NA,NA,NA
+Gilly,Pueblo Libre,0,0,0,1,1,1,1,23,NA,NA,NA
 Gilwood Hunter,Arryn,1,1,0,0,1,0,0,80,NA,NA,NA
 Gladden Wylde,Stark,1,1,1,0,0,0,0,43,298,1,55
 Glendon Hewett,Guardia de la Noche,1,0,0,0,1,0,0,69,NA,NA,NA
@@ -303,7 +303,7 @@ Gregor Clegane,Lannister,1,1,1,1,1,0,0,29,300,4,72
 Grenn,Guardia de la Noche,1,0,1,1,1,1,1,19,NA,NA,NA
 Grey Worm,Targaryen,1,0,0,0,1,0,1,42,NA,NA,NA
 Greydon Goodbrother,Greyjoy,1,1,0,0,0,1,0,1,NA,NA,NA
-Grigg,Wildling,1,0,0,0,1,0,0,30,NA,NA,NA
+Grigg,Pueblo Libre,1,0,0,0,1,0,0,30,NA,NA,NA
 Grisel,Ninguna,0,0,0,0,1,0,0,68,NA,NA,NA
 Groleo,Targaryen,1,0,0,0,1,0,1,NA,300,5,59
 Grubbs,Guardia de la Noche,1,0,0,0,1,0,1,0,300,5,4
@@ -323,14 +323,14 @@ Hairy Hal,Guardia de la Noche,1,0,0,0,1,1,1,55,300,5,31
 Hake,Guardia de la Noche,1,0,1,1,1,0,0,52,299,3,46
 Halder,Guardia de la Noche,1,0,1,0,1,0,0,19,NA,NA,NA
 Haldon,Targaryen,1,0,0,0,0,0,1,8,NA,NA,NA
-Hali,Wildling,0,0,1,0,0,0,0,37,298,1,37
+Hali,Pueblo Libre,0,0,1,0,0,0,0,37,298,1,37
 Hallis Mollen,Stark,1,1,1,1,0,0,0,14,NA,NA,NA
 Hallyne,Lannister,1,0,0,1,0,1,0,17,NA,NA,NA
 Halys Hornwood,Stark,1,1,1,0,0,0,0,53,298,1,62
 Hamish the Harper,Ninguna,1,0,0,0,1,1,0,32,300,5,43
 Hareth (Mole's Town),Guardia de la Noche,1,0,0,0,1,0,1,64,NA,NA,NA
 Harghaz,Ninguna,1,0,0,0,0,0,1,52,300,5,70
-Harma,Wildling,0,1,0,0,1,0,0,0,300,3,75
+Harma,Pueblo Libre,0,1,0,0,1,0,0,0,300,3,75
 Harmund Sharp,Greyjoy,1,1,0,0,0,1,0,19,NA,NA,NA
 Harmune,Guardia de la Noche,1,0,0,0,0,0,1,78,NA,NA,NA
 Harra,Ninguna,0,0,0,1,0,0,0,26,299,2,64
@@ -353,7 +353,7 @@ Hobber Redwyne,Tyrell,1,1,1,1,1,1,0,27,NA,NA,NA
 Hod,Ninguna,1,0,0,1,0,0,0,5,NA,NA,NA
 Hodor,Stark,1,0,1,1,1,0,1,24,NA,NA,NA
 Holger,Ninguna,1,0,0,1,0,0,0,49,NA,NA,NA
-Holly,Wildling,0,0,0,0,0,0,1,37,300,5,69
+Holly,Pueblo Libre,0,0,0,0,0,0,1,37,300,5,69
 Hop-Robin,Guardia de la Noche,1,0,0,0,1,0,1,75,NA,NA,NA
 Horas Redwyne,Tyrell,1,1,1,1,0,1,0,27,NA,NA,NA
 Horton Redfort,Arryn,1,1,0,0,0,1,0,23,NA,NA,NA
@@ -361,7 +361,7 @@ Hosteen Frey,Ninguna,1,1,1,1,1,0,1,59,NA,NA,NA
 Hoster Tully,Tully,1,1,1,1,1,0,0,71,299,3,35
 Hot Pie,Ninguna,1,0,0,1,1,0,0,1,NA,NA,NA
 Hother Umber,Stark,1,1,0,1,0,0,1,16,NA,NA,NA
-Howd Wanderer,Wildling,1,1,0,0,0,0,1,58,NA,NA,NA
+Howd Wanderer,Pueblo Libre,1,1,0,0,0,0,1,58,NA,NA,NA
 Hubard Rambton,Baratheon,1,1,0,1,0,0,0,10,299,5,10
 Hugh,Arryn,1,0,1,0,0,0,0,25,298,1,29
 Hugo Vance,Tully,1,1,0,0,0,1,0,30,NA,NA,NA
@@ -388,7 +388,7 @@ Janos Slynt,Ninguna,1,1,1,1,1,0,1,27,300,5,7
 Jaqen H'ghar,Ninguna,1,0,0,1,0,1,0,5,NA,NA,NA
 Jared Frey,Ninguna,1,1,1,1,0,0,1,59,300,5,37
 Jaremy Rykker,Guardia de la Noche,1,1,1,0,0,0,0,21,298,5,60
-Jarl,Wildling,1,0,0,0,1,0,0,7,299,3,26
+Jarl,Pueblo Libre,1,0,0,0,1,0,0,7,299,3,26
 Jarman Buckwell,Guardia de la Noche,1,0,0,1,0,0,1,13,300,5,21
 Jason Mallister,Stark,1,1,1,0,1,0,0,28,NA,NA,NA
 Jate,Lannister,1,0,0,0,0,1,0,44,NA,4,44
@@ -475,7 +475,7 @@ Lollys Stokeworth,Lannister,0,1,0,1,1,0,0,2,NA,NA,NA
 Lommy,Guardia de la Noche,1,0,0,1,0,0,0,1,299,2,19
 Loras Tyrell,Tyrell,1,1,1,1,1,1,0,18,NA,NA,NA
 Lorcas,Ninguna,1,0,0,0,0,1,0,45,NA,NA,NA
-Lord of Bones,Wildling,1,1,0,1,1,0,1,68,300,5,10
+Lord of Bones,Pueblo Libre,1,1,0,1,1,0,1,68,300,5,10
 Lorent Caswell,Baratheon,1,1,0,1,0,0,0,22,NA,NA,NA
 Lorren,Greyjoy,1,0,0,1,0,0,0,37,299,2,66
 Lothar Frey,Ninguna,1,1,0,0,1,0,0,35,NA,NA,NA
@@ -501,18 +501,18 @@ Mad Huntsman,Ninguna,1,0,0,0,1,0,0,29,NA,NA,NA
 Maege Mormont,Stark,0,1,1,0,1,0,0,53,NA,NA,NA
 Maerie (Goodwife),Ninguna,0,0,0,0,1,0,0,34,299,3,34
 Maerie (Whore),Ninguna,0,0,0,0,1,0,0,34,299,3,34
-Mag Mar Tun Doh Weg,Wildling,1,1,0,0,1,0,0,15,300,3,64
+Mag Mar Tun Doh Weg,Pueblo Libre,1,1,0,0,1,0,0,15,300,3,64
 Mago,Ninguna,1,0,1,0,0,0,0,61,NA,NA,NA
 Mallador Locke,Guardia de la Noche,1,0,0,1,1,0,0,13,299,5,18
 Malliard,Lannister,1,0,0,1,0,0,0,20,NA,NA,NA
 Mallor,Lannister,1,0,1,0,0,0,0,63,NA,NA,NA
-Mance Rayder,Wildling,1,1,0,0,1,0,1,15,NA,NA,NA
+Mance Rayder,Pueblo Libre,1,1,0,0,1,0,1,15,NA,NA,NA
 Mandon Moore,Baratheon,1,1,1,1,0,0,0,51,299,2,61
 Maric Seaworth,Baratheon,1,1,0,1,0,0,0,10,299,2,58
 Marei,Ninguna,0,0,0,1,0,0,0,29,NA,NA,NA
 Margaery Tyrell,Tyrell,0,1,0,1,1,1,0,22,NA,NA,NA
 Marillion,Arryn,1,0,1,0,1,1,0,28,300,4,23
-Maris,Wildling,0,0,0,0,0,0,1,58,NA,NA,NA
+Maris,Pueblo Libre,0,0,0,0,0,0,1,58,NA,NA,NA
 Marissa Frey,Ninguna,0,1,0,0,1,1,0,49,NA,NA,NA
 Mariya Darry,Ninguna,0,1,0,0,0,1,0,30,NA,NA,NA
 Mark Mullendore,Tully,1,1,0,1,0,0,0,22,NA,NA,NA
@@ -534,7 +534,7 @@ Mebble,Ninguna,1,0,0,1,0,0,0,47,NA,NA,NA
 Medger Cerwyn,Stark,1,1,1,1,0,0,0,53,299,2,30
 Meera Reed,Stark,0,1,0,1,1,0,1,21,NA,NA,NA
 Megga Tyrell,Tyrell,0,1,0,0,1,1,0,6,NA,NA,NA
-Meha,Wildling,0,0,0,0,0,0,1,0,NA,NA,NA
+Meha,Pueblo Libre,0,0,0,0,0,0,1,0,NA,NA,NA
 Mela,Arryn,0,0,0,0,0,1,0,23,NA,NA,NA
 Meldred Merlyn,Greyjoy,1,1,0,0,0,1,0,1,NA,NA,NA
 Meliana,Stark,0,0,0,0,1,0,0,69,NA,NA,NA
@@ -555,14 +555,14 @@ Missandei,Targaryen,0,0,0,0,1,0,1,23,NA,NA,NA
 Mohor,Ninguna,1,1,1,0,0,0,0,31,298,1,31
 Mollander,Ninguna,1,0,0,0,0,1,0,0,NA,NA,NA
 Monford Velaryon,Baratheon,1,1,0,1,0,0,0,0,299,3,25
-Monster,Wildling,1,0,0,0,1,1,1,33,NA,NA,NA
+Monster,Pueblo Libre,1,0,0,0,1,1,1,33,NA,NA,NA
 Moon Boy,Baratheon,1,0,1,1,1,1,0,29,NA,NA,NA
 Moqorro,Greyjoy,1,0,0,0,0,0,1,33,NA,NA,NA
 Mord,Arryn,1,0,1,0,0,1,0,38,NA,NA,NA
 Mordane,Stark,0,0,1,0,0,0,0,7,298,1,67
 Moreo Tumitis,Ninguna,1,0,1,0,0,0,0,18,NA,NA,NA
 Morgarth,Ninguna,1,0,0,0,0,1,0,41,NA,NA,NA
-Morna White Mask,Wildling,0,1,0,0,0,0,1,48,NA,NA,NA
+Morna White Mask,Pueblo Libre,0,1,0,0,0,0,1,48,NA,NA,NA
 Moro,Ninguna,1,1,1,0,0,0,0,3,NA,NA,NA
 Morra,Martell,0,0,0,0,0,1,0,40,NA,NA,NA
 Morrec,Lannister,1,0,1,0,0,0,0,13,298,1,31
@@ -585,7 +585,7 @@ Myles Manwoody,Martell,1,1,0,0,1,0,0,38,NA,NA,NA
 Myranda Royce,Arryn,0,1,0,0,0,1,0,41,NA,NA,NA
 Myrcella Baratheon,Lannister,0,1,1,1,0,1,0,5,NA,NA,NA
 Myria Jordayne,Martell,0,0,0,0,1,0,1,38,NA,NA,NA
-Myrtle,Wildling,0,0,0,0,0,0,1,37,300,5,69
+Myrtle,Pueblo Libre,0,0,0,0,0,0,1,37,300,5,69
 Nage,Ninguna,1,0,0,0,1,0,0,44,NA,NA,NA
 Myles,Tully,1,0,0,1,0,0,0,39,299,2,39
 Nan,Stark,0,0,1,1,0,0,0,1,NA,NA,NA
@@ -607,7 +607,7 @@ Ollo Lophand,Guardia de la Noche,1,0,0,0,1,0,1,0,300,5,4
 Olyvar Frey,Ninguna,1,1,1,0,0,0,0,59,NA,NA,NA
 Ondrew Locke,Stark,1,1,0,0,0,0,1,37,NA,NA,NA
 Oppo,Ninguna,1,0,0,0,1,1,0,60,300,4,17
-Orell,Wildling,1,0,0,1,0,0,0,51,299,2,51
+Orell,Pueblo Libre,1,0,0,1,0,0,0,51,299,2,51
 Orphan Oss,Guardia de la Noche,1,0,0,0,1,0,1,NA,300,5,4
 Orton Merryweather,Lannister,1,1,0,0,1,1,0,11,NA,NA,NA
 Osfryd Kettleblack,Lannister,1,1,0,1,1,1,0,41,NA,NA,NA
@@ -667,11 +667,11 @@ Quenten Banefort,Lannister,1,1,0,0,0,1,0,16,NA,NA,NA
 Quentyn Martell,Martell,1,1,0,0,0,0,1,6,300,5,70
 Quhuru Mo,Ninguna,1,0,0,1,0,1,0,27,NA,NA,NA
 Qyburn,Lannister,1,0,0,1,1,1,1,64,NA,NA,NA
-Quort,Wildling,1,0,0,0,1,0,0,41,299,3,55
+Quort,Pueblo Libre,1,0,0,0,1,0,0,41,299,3,55
 Qyle,Guardia de la Noche,1,0,0,1,0,0,0,2,299,2,2
 Rafford,Ninguna,1,0,0,1,0,1,0,19,NA,NA,NA
 Ragnor Pyke,Greyjoy,1,0,0,0,0,1,0,29,NA,NA,NA
-Ragwyle,Wildling,0,0,0,1,0,0,0,68,NA,NA,NA
+Ragwyle,Pueblo Libre,0,0,0,1,0,0,0,68,NA,NA,NA
 Rakharo,Targaryen,1,0,1,1,1,0,1,54,NA,NA,NA
 Ralf Kenning,Greyjoy,1,0,0,0,0,1,1,18,300,5,20
 Ralf Stonehouse,Greyjoy,1,1,0,0,0,0,1,18,NA,NA,NA
@@ -728,11 +728,11 @@ Roose Bolton,Stark,1,1,1,1,1,0,1,33,NA,NA,NA
 Roose Ryswell,Ninguna,1,1,0,0,0,0,1,32,NA,NA,NA
 Rorge,Ninguna,1,0,0,1,1,1,0,1,300,4,37
 Roslin Frey,Ninguna,0,1,0,0,1,0,0,35,NA,NA,NA
-Rowan,Wildling,1,0,0,0,0,0,1,37,300,5,69
+Rowan,Pueblo Libre,1,0,0,0,0,0,1,37,300,5,69
 Rudge,Guardia de la Noche,1,0,1,0,0,0,0,60,NA,NA,NA
 Rusty Flowers,Guardia de la Noche,1,0,0,0,0,0,1,7,NA,NA,NA
 Ryger Rivers,Ninguna,1,0,1,0,0,0,0,59,NA,NA,NA
-Ryk,Wildling,1,0,0,0,1,0,0,7,NA,NA,NA
+Ryk,Pueblo Libre,1,0,0,0,1,0,0,7,NA,NA,NA
 Rupert Brax,Lannister,1,0,0,1,0,0,0,32,299,2,32
 Ryman Frey,Ninguna,1,1,0,0,1,1,0,14,300,4,44
 Rymolf Stormdrunk,Greyjoy,1,0,0,1,0,0,0,24,NA,NA,NA
@@ -769,16 +769,16 @@ Spare Boot,Guardia de la Noche,1,0,0,0,1,0,0,55,NA,NA,NA
 Spotted Cat,Ninguna,1,0,0,0,0,0,1,11,NA,NA,NA
 Spotted Pate of Maidenpool,Guardia de la Noche,1,0,0,0,1,0,0,0,299,3,55
 Squint,Greyjoy,1,0,0,1,0,0,0,50,299,2,50
-Squirrel,Wildling,0,0,0,0,0,0,1,37,300,5,69
+Squirrel,Pueblo Libre,0,0,0,0,0,0,1,37,300,5,69
 Stalwart Shield,Targaryen,1,0,0,0,0,0,1,2,300,5,2
 Steelskin,Ninguna,1,0,0,0,0,0,1,11,NA,NA,NA
 Steffon Swyft,Lannister,1,1,0,0,0,1,0,27,NA,NA,NA
 Stevron Frey,Stark,1,1,1,1,0,0,0,59,299,2,35
-Stiv,Wildling,1,0,1,0,0,0,0,37,298,1,37
-Stone Thumbs,Wildling,1,0,0,0,1,0,0,41,299,3,55
+Stiv,Pueblo Libre,1,0,1,0,0,0,0,37,298,1,37
+Stone Thumbs,Pueblo Libre,1,0,0,0,1,0,0,41,299,3,55
 Stonesnake,Guardia de la Noche,1,0,0,1,0,0,0,43,NA,NA,NA
 Stygg,Greyjoy,1,0,0,1,0,0,0,37,NA,NA,NA
-Styr,Wildling,1,1,0,0,1,0,0,7,300,3,26
+Styr,Pueblo Libre,1,1,0,0,1,0,0,7,300,3,26
 Sybassion,Ninguna,1,0,0,1,0,0,0,63,NA,NA,NA
 Sybell Spicer,Lannister,0,1,0,0,1,1,0,14,NA,NA,NA
 Sybelle Glover,Stark,0,1,0,0,0,0,1,26,NA,NA,NA
@@ -800,7 +800,7 @@ Theo Frey,Ninguna,1,1,1,0,0,0,0,29,NA,NA,NA
 Theodan Wells,Stark,1,1,0,0,0,1,1,43,NA,NA,NA
 Theomore Lannister,Ninguna,1,1,0,0,0,0,1,19,NA,NA,NA
 Theon Greyjoy,Greyjoy,1,1,1,1,0,0,1,1,NA,NA,NA
-Thistle,Wildling,0,0,0,0,0,0,1,0,300,5,0
+Thistle,Pueblo Libre,0,0,0,0,0,0,1,0,300,5,0
 Thoren Smallwood,Guardia de la Noche,1,1,0,1,1,0,0,6,299,3,18
 Thoros,Ninguna,1,0,1,0,1,1,0,29,NA,NA,NA
 Three Toes,Ninguna,1,0,0,0,1,0,0,44,NA,NA,NA
@@ -816,7 +816,7 @@ Todder,Guardia de la Noche,1,0,1,0,1,0,1,19,NA,NA,NA
 Todric,Greyjoy,1,0,0,1,0,0,0,37,299,2,37
 Tom of Sevenstreams,Ninguna,1,0,0,0,1,1,0,13,NA,NA,NA
 Tomard,Stark,1,0,1,0,0,0,0,22,298,1,49
-Tormund,Wildling,1,1,0,0,1,0,1,7,NA,NA,NA
+Tormund,Pueblo Libre,1,1,0,0,1,0,1,7,NA,NA,NA
 Torrek,Ninguna,1,0,1,0,0,0,0,42,NA,NA,NA
 Torrhen Karstark,Stark,1,1,1,0,0,0,0,53,298,1,63
 Tothmure,Lannister,1,0,0,1,0,0,0,30,299,2,64
@@ -849,8 +849,8 @@ Urreg,Guardia de la Noche,1,0,0,1,0,0,0,14,299,2,19
 Urswyck,Ninguna,1,0,0,0,1,0,0,21,NA,NA,NA
 Utherydes Wayn,Tully,1,0,1,1,1,0,0,71,NA,NA,NA
 Utt,Ninguna,1,0,0,1,1,0,0,30,299,3,39
-Val,Wildling,0,0,0,0,1,0,1,7,NA,NA,NA
-Varamyr,Wildling,1,0,0,0,1,0,1,15,300,5,0
+Val,Pueblo Libre,0,0,0,0,1,0,1,7,NA,NA,NA
+Varamyr,Pueblo Libre,1,0,0,0,1,0,1,15,300,5,0
 Vardis Egen,Arryn,1,0,1,0,0,0,0,34,298,1,40
 Vargo Hoat,Ninguna,1,0,0,1,1,0,0,30,300,3,20
 Varys,Targaryen,1,0,1,1,1,0,1,25,NA,NA,NA
@@ -863,7 +863,7 @@ Waif,Ninguna,0,0,0,0,0,1,1,6,NA,NA,NA
 Walda Rivers (daughter of Aemon),Ninguna,0,1,0,0,1,0,0,49,NA,NA,NA
 Walder Frey,Ninguna,1,1,1,0,1,0,0,28,NA,NA,NA
 Walder Rivers,Ninguna,1,1,0,0,1,1,0,35,NA,NA,NA
-Wallen,Wildling,1,0,1,0,0,0,0,37,298,1,37
+Wallen,Pueblo Libre,1,0,1,0,0,0,0,37,298,1,37
 Walton,Ninguna,1,0,0,1,1,0,1,64,NA,NA,NA
 Wat (orphan),Ninguna,1,0,0,0,0,1,0,37,NA,NA,NA
 Wat (sailor),Ninguna,1,0,0,0,0,1,0,34,NA,NA,NA
@@ -872,7 +872,7 @@ Watty,Ninguna,1,0,0,0,1,0,0,39,NA,NA,NA
 Waymar Royce,Guardia de la Noche,1,1,1,0,0,0,0,0,297,1,0
 Wayn (guard),Stark,1,0,1,0,0,0,0,37,NA,NA,NA
 Weasel,Ninguna,0,0,0,1,0,0,0,9,NA,NA,NA
-Weeper,Wildling,1,1,0,0,1,0,0,7,NA,NA,NA
+Weeper,Pueblo Libre,1,1,0,0,1,0,0,7,NA,NA,NA
 Weese,Lannister,1,0,0,1,0,0,0,26,299,2,38
 Wendel Manderly,Stark,1,1,1,1,1,0,0,55,299,3,51
 Wendello Qar Deeth,Ninguna,1,1,0,1,0,0,0,40,NA,NA,NA
@@ -887,11 +887,11 @@ Willem Lannister,Lannister,1,1,0,0,1,0,0,19,299,3,20
 William Mooton,Tully,1,1,0,0,0,1,0,14,NA,NA,NA
 Willis Wode,Arryn,1,1,1,0,0,0,0,31,NA,NA,NA
 Willit,Lannister,1,0,0,1,0,0,0,65,NA,NA,NA
-Willow Witch-eye,Wildling,0,0,0,0,0,0,1,37,300,5,69
+Willow Witch-eye,Pueblo Libre,0,0,0,0,0,0,1,37,300,5,69
 Willum,Tully,1,0,1,0,0,0,0,43,NA,NA,NA
 Woth,Guardia de la Noche,1,0,0,1,0,0,0,14,299,2,14
 Wulfe,Greyjoy,1,0,0,0,0,1,1,29,NA,NA,NA
-Wun Weg Wun Dar Wun,Wildling,1,0,0,0,0,0,1,35,NA,NA,NA
+Wun Weg Wun Dar Wun,Pueblo Libre,1,0,0,0,0,0,1,35,NA,NA,NA
 Wyl (guard),Stark,1,0,1,0,0,0,0,35,298,1,35
 Wyl the Whittler,Ninguna,1,0,0,0,1,0,0,34,299,3,34
 Wylis Manderly,Stark,1,1,1,1,0,1,0,55,NA,NA,NA
@@ -904,7 +904,7 @@ Xhondo,Ninguna,1,0,0,0,0,1,0,26,NA,NA,NA
 Yandry,Targaryen,1,0,0,0,0,0,1,8,NA,NA,NA
 Yellow Dick,Ninguna,1,0,0,0,0,0,1,12,300,5,46
 Ygon Farwynd,Greyjoy,1,1,0,0,0,1,0,19,NA,NA,NA
-Ygritte,Wildling,0,0,0,1,1,0,0,51,299,3,55
+Ygritte,Pueblo Libre,0,0,0,1,1,0,0,51,299,3,55
 Yohn Farwynd,Greyjoy,1,1,0,0,0,1,0,19,NA,NA,NA
 Yohn Royce,Arryn,1,1,1,0,0,1,0,29,NA,NA,NA
 Yoren,Guardia de la Noche,1,0,1,1,0,0,0,13,299,2,19
@@ -914,5 +914,5 @@ Zei,Stark,0,0,0,0,1,0,0,64,NA,NA,NA
 Zollo,Ninguna,1,0,0,0,1,0,0,21,NA,NA,NA
 Yurkhaz zo Yunzak,Ninguna,1,0,0,0,0,0,1,47,300,5,59
 Yezzan Zo Qaggaz,Ninguna,1,1,0,0,0,0,1,25,300,5,57
-Torwynd the Tame,Wildling,1,0,0,0,1,0,0,73,300,5,73
+Torwynd the Tame,Pueblo Libre,1,0,0,0,1,0,0,73,300,5,73
 Talbert Serry,Tyrell,1,1,0,0,0,1,0,29,300,4,29
