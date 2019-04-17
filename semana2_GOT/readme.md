@@ -1,6 +1,6 @@
 # Semana 2 de `#datosdemiercoles`: Juego de Tronos
 
-Conjuntos de datos para la semana 2 de [#datosdemiercoles]((https://github.com/cienciadedatos/datos-de-miercoles). Esta versión tiene las variables traducidas, pero no los nombres de los personajes.
+Conjuntos de datos para la semana 2 de [#datosdemiercoles](https://github.com/cienciadedatos/datos-de-miercoles). Esta versión tiene las variables traducidas, pero no los nombres de los personajes.
 
 ### Datos
 
