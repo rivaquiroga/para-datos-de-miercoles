@@ -15,11 +15,11 @@ Puedes utilizar el siguiente código para importar los datos a R:
 ```
 # install.packages(readr)
 
-tiempo_en_pantalla <- readr::read_delim("https://raw.githubusercontent.com/rivaquiroga/para-datos-de-miercoles/master/semana2_GOT/tiempo_en_pantalla2.csv")
+tiempo_pantalla <- readr::read_csv("https://raw.githubusercontent.com/rivaquiroga/para-datos-de-miercoles/master/semana2_GOT/tiempo_pantalla2.csv")
 
-cambio_lealtades <- readr::read_delim("https://raw.githubusercontent.com/rivaquiroga/para-datos-de-miercoles/master/semana2_GOT//cambio_lealtades2.csv")
+cambio_lealtades <- readr::read_csv("https://raw.githubusercontent.com/rivaquiroga/para-datos-de-miercoles/master/semana2_GOT/cambio_lealtades2.csv")
 
-personajes_libros <- readr::read_delim("https://raw.githubusercontent.com/rivaquiroga/para-datos-de-miercoles/master/semana2_GOT//personajes_libro2.csv")
+personajes_libros <- readr::read_csv("https://raw.githubusercontent.com/rivaquiroga/para-datos-de-miercoles/master/semana2_GOT/personajes_libro2.csv")
 
 ```
 
